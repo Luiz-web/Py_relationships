@@ -1,0 +1,1 @@
+<p>The content in this repository is inspired by this <a href="https://www.udemy.com/course/python-3-do-zero-ao-avancado/">Python Course</a>, Aiming for building my abilities with the concepts of Association, Aggregation and Composition.</p>
